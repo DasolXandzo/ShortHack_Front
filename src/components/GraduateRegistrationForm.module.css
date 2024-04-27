@@ -1,0 +1,15 @@
+.container{
+    font-size: 20px;
+    width: 50%;
+    min-height: 50vh;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1.5vh 3vw 1.5vh 3vw;
+    border-radius: 20px;
+    background-color: #FFFFFF;
+    color: #000000;
+    font-size: 120%;
+}

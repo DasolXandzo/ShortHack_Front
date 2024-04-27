@@ -1,0 +1,28 @@
+.container{
+    width: 85%;
+    height: 50vh;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1vh 3vw 1vh 3vw;
+    background-color: #FFFFFF;
+    border-radius: 20px;
+}
+
+.container div{
+    color: #096DD9;
+    text-align: center;
+}
+
+.container .smallText{
+    font-size: 80%;
+}
+
+.container .largeText{
+    font-size: 45px;
+}
+
+.container img{
+    height: 100%;
+}

@@ -1,0 +1,24 @@
+.container{
+    font-size: 20px;
+    color: #000000;
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin: 3% 0 3% 0;
+}
+
+.text{
+    text-align: right;
+}
+
+.container input{
+    margin-left: 1.5vw;
+}
+
+input button{
+    border-radius: 10px;
+    border: #096DD9 1px solid;
+    background-color: #096DD9;
+    padding: 0.25vh 0.25vw;
+    color: #FFFFFF;
+}
