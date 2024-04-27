@@ -24,5 +24,7 @@
 }
 
 .container img{
-    height: 100%;
+    margin-left: 1%;
+    height: 90%;
+    border-radius: 10%;
 }

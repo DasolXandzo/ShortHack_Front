@@ -8,12 +8,12 @@
     color: #FFFFFF;
 }
 
-button:hover{
+.button:hover{
     background-color: #40A9FF;
     border-color: #40A9FF;
     cursor: pointer;
 }
 
-button a{
+.button a{
     text-decoration: none;
 }

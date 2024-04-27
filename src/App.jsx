@@ -1,4 +1,4 @@
-import { Navbar } from './components/common';
+import { Navbar, Footer } from './components/common';
 import { Route, Routes } from 'react-router-dom';
 import { HomePage, StudentPage, MentorPage, ProfilePage } from './pages';
 import './App.css';
@@ -13,6 +13,7 @@ function App() {
         <Route path="/mentor" element={<MentorPage />}/>
         <Route path="/profile" element={<ProfilePage />}/>
       </Routes>
+      <Footer />
     </div>
   );
 }

@@ -6,3 +6,4 @@ export * from "./TextPanel";
 export * from "./TextField";
 export * from "./FileField";
 export * from "./Button";
+export * from "./MentorCard";
